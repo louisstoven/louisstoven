@@ -13,7 +13,6 @@ Python, SQL, R
 Pandas, NumPy
 - Data Visualization:
 Power BI, Tableau, Matplotlib, Seaborn, Plotly
-Google Data Studio
 - Databases:
 PostgreSQL, MySQL, MongoDB
 Cloud Storage: Azure Data Lake
